@@ -1,16 +1,17 @@
  # 👇Todo sobre Carolina Alejandra Pena Astigarraga(Desarrolladora Frontend y Tester QA)👇
 
 ## ¿Quién soy?🤗
-Mi nombre es Carolina Alejandra Pena Astigarraga (más resumido y conocida como Carolina Pena). Soy de la ciudad de Pilar, Provincia de Buenos Aires, Argentina. <br>Con fecha de nacimiento el día 10/10/2001 (actualmente de 23 años de edad)
+Mi nombre es Carolina Alejandra Pena Astigarraga (más resumido y conocida como Carolina Pena). Soy de la ciudad de Pilar, Provincia de Buenos Aires, Argentina. <br>Con fecha de nacimiento el día 10/10/2001 (actualmente de 24 años de edad)
 
 ### ¿Qué hago?
 - Tester QA🐞(Testing de software).
 - Desarrolladora Frontend React JS y JavaScript💻.
 - 1er Dan e instructora en artes marciales y defensa personal🥋(el deporte me apasiona).
-- Secretaria en el estudio jurídico Abogados Matinelli y Asociados(ver más en mi CV adjunto en este repositorio)📚.
+- Secretaria en el estudio jurídico Abogados Martinelli y Asociados(ver más en mi CV adjunto en este repositorio)📚.
 - Desarrolladora Frontend React JS en el programa de pasantías de MakiSan Tech(ídem)📚.
 - He finalizado la carrera de Desarrollo Frontend React Flex en Codehouse en octubre de 2024(Ver más en el repositorio: https://github.com/caropenaIt/Mis-Certificados).
-- Realicé un programa de prácticas como QA manual en FooTalent Group.
+- He finalizado el bootcamp de Desarrollo Frontend React del Programa Digitalers 2025 de Telecom x Educación IT.
+- Realicé un programa de prácticas como QA manual en FooTalent Group afines de 2024 y principios de 2025.
 
 #### ¿Cuáles son los conocimientos y herramientas/stack que manejo?
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white) ![MantisBT](https://img.shields.io/badge/Mantis%20Bug%20Tracker-508641?style=for-the-badge&logo=mantis&logoColor=white) ![React](https://img.shields.io/badge/react_JS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
