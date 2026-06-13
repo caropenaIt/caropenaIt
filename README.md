@@ -2,29 +2,80 @@
 
 ## ¿Quién soy?🤗
 Mi nombre es Carolina Alejandra Pena Astigarraga (más resumido y conocida como Carolina Pena). Soy de la ciudad de Pilar, Provincia de Buenos Aires, Argentina. <br>Con fecha de nacimiento el día 10/10/2001 (actualmente de 24 años de edad)
+## ¿Qué hago?
+Soy una Desarrolladora Frontend y QA Tester con experiencia en el ciclo de vida del software (SDLC), creación de interfaces modernas y aseguramiento de calidad (QA). Especialista en React JS, Astro y JavaScript, con enfoque en UI/UX, responsive design e integración de Firebase y APIs REST. Experta en metodologías ágiles (Scrum) y gestión de calidad (pruebas funcionales, regresión y API testing con Postman) utilizando JIRA y Azure DevOps.
 
-### ¿Qué hago?
-- Tester QA🐞(Testing de software).
-- Desarrolladora Frontend React JS y JavaScript💻.
-- 1er Dan e instructora en artes marciales y defensa personal🥋(el deporte me apasiona).
-- Secretaria en el estudio jurídico Abogados Martinelli y Asociados(ver más en mi CV adjunto en este repositorio)📚.
-- Desarrolladora Frontend React JS en el programa de pasantías de MakiSan Tech(ídem)📚.
-- He finalizado la carrera de Desarrollo Frontend React Flex en Codehouse en octubre de 2024(Ver más en el repositorio: https://github.com/caropenaIt/Mis-Certificados).
-- He finalizado el bootcamp de Desarrollo Frontend React del Programa Digitalers 2025 de Telecom x Educación IT.
-- Realicé un programa de prácticas como QA manual en FooTalent Group afines de 2024 y principios de 2025.
+### Educación
+• Bootcamp Frontend React – Educación IT
+(2025)
+• Carrera de Desarrollo Frontend React –
+Coderhouse (2024)
+
+### Experiencia profesional
+##### No Country | Desarrollador Frontend (prácticas) | 03/2026 – 04/2026
+- Desarrollé la landing page del proyecto de Plek con Astro, optimizando la
+captación de leads B2B.
+- Incrementé la presencia digital en un 50% mediante componentes
+reutilizables y diseño responsive.
+##### MakiSan Tech | Desarrollador Frontend (pasantía) | 04/2025 – 02/2026
+- Desarrollé la aplicación web OdontoGes utilizando React.js,
+JavaScript y CSS.
+- Implementé módulos de gestión de pacientes, turnos y
+odontograma digital.
+- Integré persistencia de datos y optimicé la experiencia de
+usuario mediante diseño responsive.
+##### FooTalent Group | QA Tester (prácticas) | 11/2024 – 02/2025
+- Diseñé y ejecuté casos de prueba funcionales para validar
+requisitos de negocio.
+- Realicé Smoke Testing y Regression Testing, documentando
+defectos mediante herramientas de seguimiento de
+incidencias.
+- Colaboré con equipos ágiles para garantizar la calidad y
+estabilidad de la aplicación antes de cada entrega.
+##### Abogados Martinelli y Asociados | Secretaria Administrativa | 02/2023 – Actualidad
+- Organización y optimización de documentación legal y
+expedientes.
+- Atención al cliente y soporte administrativo diario.
+##### Asociación Italiana de Socorros Mutuos Pilar | Instructor de artes marciales y defensa personal | 03/2021 – Actualidad
+- Liderazgo de grupos y enseñanza de artes marciales y
+defensa personal, enfocada en manejo de equipos.
+- Enseñanza activa en las escuelas Kaizen Do y Krav Maga
+ISD sede Pilar.
 
 #### ¿Cuáles son los conocimientos y herramientas/stack que manejo?
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white) ![MantisBT](https://img.shields.io/badge/Mantis%20Bug%20Tracker-508641?style=for-the-badge&logo=mantis&logoColor=white) ![React](https://img.shields.io/badge/react_JS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/astro.png" alt="Astro" title="Astro"/></code>
+</div>
 
-<strong>Además...</strong>
+ ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![MantisBT](https://img.shields.io/badge/Mantis%20Bug%20Tracker-508641?style=for-the-badge&logo=mantis&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+
+#### Además...
 
 - Game testing 🕹️
 - Pruebas funcionales/no funcionales
 - UX/UI(conceptos)
 - Metodologías ágiles
-- Proactiva
 - Diseño, creación y ejecución de casos de prueba
-- Chat GPT, Gemini
+- Chat GPT, Gemini, Copilot
 - Uso de API
 - Desarrollo/maquetado web
 - Trabajo en equipo
@@ -33,7 +84,7 @@ Mi nombre es Carolina Alejandra Pena Astigarraga (más resumido y conocida como 
 - y más...
 
 #### ¿Sabes algun idioma?
-Sí, aparte del español(como estarás leyendo); sé inglés de nivel B2 (First Certificate); japonés básico.
+Sí, aparte del español(como estarás leyendo); sé inglés de nivel B2 (intermedio); japonés básico.
 
 ##### ¿Cuáles son tus objetivos?
 Poder trabajar en el sector IT. Si bien cuento con poca experiencia laboral; cuento con conocimientos y habilidades surtidas, únicas y vastas que pueden ayudar un montón a las empresas y/o a quien lo necesite.
@@ -54,7 +105,7 @@ Puedes hacer contacto conmigo vía:
 
 ## Estadísticas/stats
 
-| GitHub Stats | Streak/rachas | Lenguajes Más Usados |
-|--------------|--------|-----------------------|
-| ![](https://github-readme-stats.vercel.app/api?username=caropenaIt&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=caropenaIt&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caropenaIt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| GitHub Stats | Lenguajes Más Usados |
+|--------------|-----------------------|
+| ![](https://github-readme-stats.vercel.app/api?username=caropenaIt&theme=dark&hide_border=false&include_all_commits=false&count_private=false) |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caropenaIt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
