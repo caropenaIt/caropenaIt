@@ -1,10 +1,12 @@
-<div style="border-radius:16px;">
+
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20" src="https://komarev.com/ghpvc/?username=caropenaIt&color=red" alt=""/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=pulse&height=250&color=ff0033&section=header&reversal=false&text=Carolina+Pena&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=none&strokeWidth=0&desc=Frontend+Developer+-+QA+Tester&descSize=20&descAlign=50&descAlignY=78" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F73518&center=true&vCenter=true&width=600&lines=Desarrollador+Frontend+React%2FAstro;Tester+QA;H%C3%A1bil+con+la+IA+para+el+desarrollo;Pilar%2C+Buenos+Aires%2C+Argentina)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F73518&center=true&vCenter=true&width=600&lines=Desarrollador+Frontend+React%2FAstro;Tester+QA;H%C3%A1bil+con+la+IA+para+el+desarrollo;Pilar%2C+Buenos+Aires%2C+Argentina)](https://git.io/typing-svg)
+</div>
 
 <pre style="background:#0d1117; color:#e6edf3; padding:20px 24px; border-radius:16px; border:1px solid #30363d; display:block; font-family:'Fira Code', monospace; font-size:18px; line-height:1.6; box-shadow: 0 8px 32px rgba(0,0,0,0.45); margin-left:0;">
 <code style="font-family:inherit; font-size:18px;">{
