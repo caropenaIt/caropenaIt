@@ -63,50 +63,18 @@ resolución rápida de incidencias.
 </div>
 <div align="center">
 
-### Además...
+### Otras habilidades 💪
 
-Game testing 🕹️
-Pruebas funcionales/no funcionales
-UX/UI
-Metodologías ágiles
-Diseño, creación y ejecución de casos de prueba
-Desarrollo/maquetado web
-Trabajo en equipo
-Mobile Testing
+🕹️Game testing,
+Pruebas funcionales/no funcionales,
+UX/UI,
+Metodologías ágiles,
+Diseño, creación y ejecución de casos de prueba,
+Desarrollo/maquetado web,
+Trabajo en equipo,
+Mobile Testing,
 Diseño responsive, y mucho más...
 </div>
-
- ### 🏆 Experiencia profesional
-##### No Country | Desarrolladora Frontend (Prácticas) | 08/2026 – 10/2026
-- Desarrollo del proyecto SplitFlow, que resuelve el problema de gestión de gastos y deudas en grupos en
-situaciones de viajes, salidas y más.
-- Colaboración en equipo multidisciplinario bajo metodología Agile/Scrum mediante Notion y control de versiones
-con Git/GitHub.
-##### No Country | Desarrollador Frontend (prácticas) | 03/2026 – 04/2026
-- Desarrollo de la landing page B2B para el proyecto Plek utilizando Astro, JavaScript y CSS modular, logrando
-una carga ultrarrápida y diseño 100% responsive.
-- Creación de componentes UI reutilizables e integración de formularios de captación de leads, incrementando
-la presencia digital del producto.
-- Colaboración en
-##### MakiSan Tech | Desarrollador Frontend (pasantía) | 04/2025 – 02/2026
-- Desarrollo de la aplicación web de gestión clínica OdontoGes con React.js, JavaScript y CSS.
-- Implementación del módulo de gestión de pacientes, agenda de turnos y visualización interactiva del
-odontograma digital del sistema OdontoGes.
-- Integración de persistencia de datos y optimización de la experiencia de usuario (UI/UX).
-##### FooTalent Group | QA Tester (prácticas) | 11/2024 – 02/2025
-- Aseguramiento de calidad en la plataforma Respawn Events, diseñando y ejecutando casos de prueba
-funcionales en ClickUp.
-- Ejecución de pruebas de humo (Smoke Testing) y regresión.
-- Reporte y seguimiento de defectos en el ciclo de vida del bug, colaborando con los desarrolladores para
-asegurar entregas estables previa producción.
-##### Abogados Martinelli y Asociados | Secretaria Administrativa | 02/2023 – Actualidad
-- Gestión documental, digitalización de expedientes complejos y control de calidad administrativo con alto nivel
-de precisión.
-- Atención a clientes: Comunicación directa con clientes, juzgados y colaboradores, aplicando escucha activa y
-resolución rápida de incidencias.
-##### Asociación Italiana de Socorros Mutuos Pilar | Instructor de artes marciales y defensa personal | 03/2021 – Actualidad
-- Liderazgo de grupos y gestión de imprevistos bajo presión.
-- Desarrollo e implementación del sitio web oficial de la academia.
 
 #### 🤓 Idiomas
 Inglés (Intermedio) | Japonés (Básico)
@@ -148,7 +116,7 @@ Cuento con mi sitio web de portfolio donde podrás ver mis trabajos tanto como D
   </tr>
 </table>
 
-#### 🌐 Contacto
+### 🌐 Contacto
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-pena-astigarraga/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caropena000@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5491144928350) [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Portfolio&logoColor=white)](https://carolina-pena-portfolio-devqa.netlify.app/)
